@@ -1,14 +1,14 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Sweetha
 <a href="www.linkedin.com/in/swetha-dasarathan-b9966a40"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+
+I am a job seeker with a profound interest in technology and a dedication to solving complex problems.I have completed CyberSecurity course and seeking to leverage academic knowledge and practical understanding of cybersecurity principles in the role of a cybersecurity analyst.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
+My journey in computer science has led me to develop a passion for cybersecurity, and I would like to offer my learning experience in network security controls, digital forensics, risk assessment and incident response from my course at respected tech firms. Adept at identifying potential vulnerabilities, mitigating risks, and maintaining the confidentiality and integrity of data. Eager to bring strong critical thinking skills, attention to detail and a passion for protecting sensitive information to a dynamic team. Committed to continuous learning and staying up to date with the latest cybersecurity trends and threats to effectively contribute to an organization’s security posture.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
