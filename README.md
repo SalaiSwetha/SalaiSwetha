@@ -20,7 +20,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Security Audit                                | <a href="https://github.com/SalaiSwetha/SecurityAudit">Botium Toys Security Audit</a>|
 
 ## Tools
 
