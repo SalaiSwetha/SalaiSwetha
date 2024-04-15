@@ -37,8 +37,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### SIEM
 <div>
    <a href ="="https://google.com">
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white"></a>
-   
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white"></a>   
 </div>
 
 ## Certifications
