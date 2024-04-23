@@ -16,7 +16,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                                     | Associated Project         |
 |-----------------------------------------------            |----------------------------|
 | SIEM Implementation and Log Analysis                      | <a href="https://google.com">Detection Lab</a>|
-| Network Protocol Analyser Basics(WireShark)               | <a href="https://github.com/SalaiSwetha/WireShark Project">Detection Lab</a>|
+| Network Protocol Analyser Basics(WireShark)               | <a href="https://github.com/SalaiSwetha/WireShark-Project.git">Detection Lab</a>|
 | Microsoft-Windows-Defender-Antivirus and Firewall         | <a href="https://github.com/SalaiSwetha/Microsoft-Windows-Defender-and-Firewall-.git">Detection Lab</a>|
 | Incident Response Planning and Execution                  | SOC Automation Lab|
 | Case Management with TheHive                              | SOC Automation Lab|
