@@ -25,7 +25,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Network
 <div>
-   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+   <img src="Wireshark.png" alt="WireShark" width="100" height="100" />
    
    
 </div>
@@ -41,11 +41,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 
 <div>
-<img src=" />
+<img src="Google Cybersecurity.png" alt="Google Cybersecurity" width="100" height="100" />
+<img src="Splunk-Logo.jpg" alt="Splunk" width="100" height="100" />
 
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+
 </div>
 
