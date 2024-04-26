@@ -18,7 +18,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Network Protocol Analyser Basics(WireShark)               | <a href="https://github.com/SalaiSwetha/WireShark-Project.git">Detection Lab</a>|
 | Microsoft-Windows-Defender-Antivirus and Firewall         | <a href="https://github.com/SalaiSwetha/Microsoft-Windows-Defender-and-Firewall-.git">Detection Lab</a>
 | Security Audit                                            | <a href="https://github.com/SalaiSwetha/SecurityAudit">Botium Toys Security Audit</a> |
-|SIEM Implementation and Log Analysis                       | <a href="https://google.com">Detection Lab</a>|
+|SIEM Implementation and Log Analysis                       | <a href="https://github.com/SalaiSwetha/Splunk.git">Detection Lab</a>|
  
 ## Tools
 
